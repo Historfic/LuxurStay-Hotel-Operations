@@ -9,7 +9,7 @@ I was working with the Head of Operations to identify possible causes and hotel 
 
 ![alt](LuxurStayDashboard.jpg)
 
-![alt](test.svg)
+![alt](test.webp)
 
 ## Project Overview: Identifying Operational Issues in Hotel Branches
 #### Project Objective
