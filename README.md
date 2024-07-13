@@ -5,7 +5,9 @@ However, the management has been receiving complaints about slow room service in
 
 I was working with the Head of Operations to identify possible causes and hotel branches with the worst problems. 
 
-![alt](LuxuxStay.jpg)
+![alt](LuxurStay.jpg)
+
+![alt](LuxurStayDashboard.jpg)
 
 ## Project Overview: Identifying Operational Issues in Hotel Branches
 #### Project Objective
